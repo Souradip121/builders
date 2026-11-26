@@ -1,8 +1,8 @@
 ---
-title: "Paid programs for 1st and 2nd-year CS students (2027)"
+title: "Paid summer programs for CS students (2027)"
 ---
 
-# Paid programs for 1st and 2nd-year CS students (2027)
+# Paid summer programs for CS students (2027)
 
 Five paid programs you can target before your 3rd year. Each was checked on its official page on 26 Nov 2026. Two close by 30 Nov.
 
